@@ -1,4 +1,5 @@
-* {
+
+  * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -6,20 +7,21 @@
   
   body {
     font-family: 'Century Gothic', sans-serif;
-    background-image:url(../img/di_maria1.jpg);
+    background-image:url(../img/giphy.gif);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
   }
-  
+
   
   nav ul {
     background:#416186a1;
+    margin-top: 20px;
     text-align: center;
     list-style: none;
     overflow: hidden;
-    margin-top: 20px;
+  
   }
   
   ul li {
@@ -62,6 +64,7 @@
   
     }
   }
+
   main{
     background: hwb(231 20% 75% / 0.767);
     padding: 20px;
@@ -77,6 +80,7 @@ p{
   color: white;
 
 }
+
 
 :root{
   --background-dark: #2d3548;
