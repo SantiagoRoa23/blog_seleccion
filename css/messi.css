@@ -199,3 +199,20 @@ body{
   line-height: 1.4;
   word-spacing: 100vw;
 }
+footer{
+  border: 1px solid  aqua;
+  text-align: center;
+  margin-top: 20px;
+  background-color: rgba(75, 72, 72, 0.527);
+}
+a{
+  text-decoration: none;
+}
+.bi{
+  margin-top: 20px;
+  margin-right: 10px;
+  color: #126dd4;
+}
+.p{
+  color: beige;
+}
